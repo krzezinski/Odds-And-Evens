@@ -1,4 +1,11 @@
 import java.util.*;
+/**
+ * Odds And Evens
+ *
+ * @author  krzezins
+ * @version 1.0
+ * @since   2020-07-22
+ */
 public class OddsAndEvens_Ver2 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);

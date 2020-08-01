@@ -1,4 +1,11 @@
 import java.util.*;
+/**
+ * Odds And Evens
+ *
+ * @author  krzezins
+ * @version 1.0
+ * @since   2020-07-22
+ */
 public class OddsAndEvens {
     public static void main(String[] args){
         // Part 1
