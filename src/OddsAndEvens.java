@@ -2,7 +2,7 @@ import java.util.*;
 /**
  * Odds And Evens
  *
- * @author  krzezins
+ * @author  krzezinski
  * @version 1.0
  * @since   2020-07-22
  */
